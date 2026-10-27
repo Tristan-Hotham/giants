@@ -1,0 +1,31 @@
+pool,name,country,lat,lon,elev,tpi500,tpi1k,pct1k,relief1k,area_ha,ramparts
+barrow,Giants Hills,United Kingdom,53.2157,0.1385,56.3809,-4.5635,-4.2068,0.4219,45.7207,,
+barrow,Giant's Grave,United Kingdom,55.8143,-5.5082,78.34,20.6931,15.6461,0.6562,154.2566,,
+barrow,Giant's Grave,United Kingdom,54.1559,-2.2207,400.936,-23.3852,-61.4079,0.1406,147.7718,,
+barrow,Giants Basin,United Kingdom,50.4853,-3.9863,326.1676,-12.7732,-27.1003,0.3438,94.9835,,
+barrow,The Giant's Grave,United Kingdom,51.4861,-1.6478,176.8282,8.7895,-2.3261,0.6094,76.9758,,
+barrow,Giant's Grave,United Kingdom,50.9795,-1.8039,84.2851,5.5991,-0.9475,0.5938,54.2927,,
+barrow,Giant's Grave,Isle of Man,54.2172,-4.6483,106.1555,19.2407,30.8725,0.7188,114.1653,,
+barrow,"Giants' Graves, Mound I",United Kingdom,52.1446,-3.3143,366.6508,45.3981,32.3481,0.7969,160.5572,,
+barrow,"Giants' Graves, Mound III",United Kingdom,52.145,-3.3133,363.2568,41.0942,30.1496,0.7656,163.0682,,
+barrow,"Giants' Graves, Mound II",United Kingdom,52.1449,-3.3134,363.754,41.6667,30.4098,0.7812,161.8379,,
+barrow,Giant's Grave round cairn,United Kingdom,52.1809,-3.2589,442.2794,12.0154,45.1727,0.6094,191.2266,,
+barrow,Cairn north of Giant's Hill,United Kingdom,50.4848,-3.98,350.6337,-7.793,-20.7792,0.3438,112.4627,,
+barrow,"Menzion Farm, Giant's Stone, cairn & standing stones 590m NE of",United Kingdom,55.5012,-3.434,261.7625,-24.9299,-63.7055,0.1719,151.1436,,
+barrow,"Giant's Grave, standing stones and cairn, Beorgs of Housetter",United Kingdom,60.551,-1.3424,40.3893,-24.5813,-19.1384,0.2656,114.2551,,
+barrow,Sypian Cerrig-y-Cawr,United Kingdom,53.0331,-3.1131,417.0021,-6.0496,0.6184,0.4531,130.4055,,
+megalith,Giant's Grave,United Kingdom,54.9802,-7.1093,240.8804,-1.5551,-9.0089,0.4844,163.4771,,
+megalith,Giant's Quoiting Stone,Isle of Man,54.0797,-4.7395,19.4473,-4.0268,-6.4966,0.4688,67.1802,,
+megalith,The Giants Stone,United Kingdom,51.7542,-2.1204,199.3443,-3.7962,-11.4122,0.3438,88.3876,,
+megalith,Giant's Quoits,United Kingdom,50.0526,-5.0679,53.7952,18.9375,3.9734,0.6833,84.1191,,
+hillfort,"Giant's Dike, Dumfries & Galloway (Barstobrick Hill)",Scotland,54.9233,-4.0499,132.5951,43.6835,59.5852,1.0,75.5674,2.7,1.0
+hillfort,"Giant's Grave, Wiltshire",England,51.368,-1.7624,206.6421,25.0002,13.1306,0.7344,133.6364,1.0,1.0
+hillfort,"Lescudjack Castle, Cornwall (Hill Castle; Castle Lescudjack; Lescaddock, The Giant's Round)",England,50.1255,-5.5336,41.7559,14.86,7.6895,0.6875,71.5982,1.2,0.0
+hillfort,"Giant's Castle, St Mary's, Isles of Scilly",England,49.9115,-6.2854,7.9671,-4.9287,-0.9027,0.4634,28.3311,0.3,3.0
+hillfort,"Castell Cawr, Conwy",Wales,53.2767,-3.5972,154.8967,56.1832,76.5222,0.9219,150.1527,1.6,1.0
+hillfort,"Llys-y-Cawr (Giant's Hall), Powys (Allt Dolanog)",Wales,52.7095,-3.3865,253.8917,53.29,54.145,0.8906,110.3931,1.16,2.0
+hillfort,"Giant's Bank, Powys",Wales,52.5219,-3.2513,175.6161,-1.9343,2.4888,0.5469,136.9513,0.3,1.0
+hillfort,"Bedd-y-Cawr, St Asaph, Denbighshire",Wales,53.2363,-3.48,135.4057,32.7798,50.4467,0.9219,83.3373,1.8,1.0
+hillfort,"Creagan Fhamhair, Highland",Scotland,57.6932,-5.6569,30.7473,-21.2547,-49.7016,0.0938,141.6433,0.04,1.0
+hillfort,"Dun Fhamhair, Highland",Scotland,57.4885,-4.5304,307.3134,16.938,35.498,0.6719,131.7308,0.12,2.0
+hillfort,"Giant's Seat, Bolton, Bolton",England,53.5397,-2.3414,79.9894,7.707,2.4037,0.5625,62.004,2.4,1.0

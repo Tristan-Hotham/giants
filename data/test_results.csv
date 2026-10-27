@@ -1,0 +1,208 @@
+group,measure,label,control,obs,base,base_lo,base_hi,p,n,diff
+tomb_all,tpi1k,Median height above the ground 1 km around (m),match,0.1160,1.5130,-1.0077,3.6407,0.4310,212,-1.3970
+tomb_all,tpi500,Median height above the ground 500 m around (m),match,0.4590,1.1270,-0.1700,2.3432,0.5410,212,-0.6680
+tomb_all,pct1k,Median share of ground within 1 km that lies lower,match,0.5384,0.5625,0.5469,0.5781,0.0300,212,-0.0241
+tomb_all,high,Share on a local high point (higher than 75% of the ground within 1 km),match,0.1321,0.1821,0.1321,0.2311,0.0510,212,-0.0500
+tomb_all,elev,Median height above sea level (m),match,101.1490,93.1113,82.2848,105.5451,0.3360,212,8.0377
+tomb_all,relief1k,Median relief within 1 km (m),match,80.9766,71.0893,61.7113,84.5382,0.1850,212,9.8872
+tomb_named,tpi1k,Median height above the ground 1 km around (m),match,0.1160,3.9438,1.2625,6.5315,0.0140,212,-3.8278
+tomb_named,tpi500,Median height above the ground 500 m around (m),match,0.4590,2.4051,0.8656,4.0688,0.0180,212,-1.9461
+tomb_named,pct1k,Median share of ground within 1 km that lies lower,match,0.5384,0.5781,0.5420,0.5938,0.0360,212,-0.0398
+tomb_named,high,Share on a local high point (higher than 75% of the ground within 1 km),match,0.1321,0.2518,0.2028,0.3019,0.0000,212,-0.1197
+tomb_named,elev,Median height above sea level (m),match,101.1490,91.3737,78.2950,103.8038,0.1640,212,9.7752
+tomb_named,relief1k,Median relief within 1 km (m),match,80.9766,81.9563,64.3323,93.7569,0.9170,212,-0.9798
+dermot_all,tpi1k,Median height above the ground 1 km around (m),match,-1.0772,1.2622,-1.4567,4.2858,0.0950,120,-2.3394
+dermot_all,tpi500,Median height above the ground 500 m around (m),match,0.4544,1.0179,-0.6687,2.8070,0.5990,120,-0.5635
+dermot_all,pct1k,Median share of ground within 1 km that lies lower,match,0.5312,0.5625,0.5156,0.6094,0.2680,120,-0.0312
+dermot_all,high,Share on a local high point (higher than 75% of the ground within 1 km),match,0.1333,0.1790,0.1167,0.2417,0.2250,120,-0.0457
+dermot_all,elev,Median height above sea level (m),match,67.1238,90.0698,78.0946,110.0762,0.0010,120,-22.9460
+dermot_all,relief1k,Median relief within 1 km (m),match,75.8875,77.5072,61.6632,88.6344,0.8220,120,-1.6197
+barrow,tpi1k,Median height above the ground 1 km around (m),match,-0.9475,9.8089,-4.2173,34.2635,0.2050,15,-10.7565
+barrow,tpi500,Median height above the ground 500 m around (m),match,5.5991,5.3581,-1.8842,19.2356,0.9430,15,0.2410
+barrow,pct1k,Median share of ground within 1 km that lies lower,match,0.5938,0.6094,0.4531,0.7812,0.9590,15,-0.0156
+barrow,high,Share on a local high point (higher than 75% of the ground within 1 km),match,0.2000,0.3080,0.0667,0.5333,0.5250,15,-0.1080
+barrow,elev,Median height above sea level (m),match,326.1676,292.4035,189.9919,369.4024,0.3770,15,33.7641
+barrow,relief1k,Median relief within 1 km (m),match,130.4055,112.7146,81.6772,154.1131,0.4940,15,17.6908
+megalith,tpi1k,Median height above the ground 1 km around (m),match,-7.7527,-0.8020,-18.8564,19.9068,0.4470,4,-6.9507
+megalith,tpi500,Median height above the ground 500 m around (m),match,-2.6757,-0.1117,-7.6574,11.9846,0.4960,4,-2.5639
+megalith,pct1k,Median share of ground within 1 km that lies lower,match,0.4766,0.5156,0.2891,0.7422,0.6880,4,-0.0391
+megalith,high,Share on a local high point (higher than 75% of the ground within 1 km),match,0.0000,0.1450,0.0000,0.5000,1.0000,4,-0.1450
+megalith,elev,Median height above sea level (m),match,126.5698,112.5273,35.8966,225.0228,0.7750,4,14.0424
+megalith,relief1k,Median relief within 1 km (m),match,86.2533,53.6365,39.4599,127.6221,0.3800,4,32.6169
+hillfort,tpi1k,Median height above the ground 1 km around (m),match,13.1306,14.5945,-4.8830,51.5585,0.8930,11,-1.4639
+hillfort,tpi500,Median height above the ground 500 m around (m),match,16.9380,11.9574,-1.0164,33.6380,0.5840,11,4.9806
+hillfort,pct1k,Median share of ground within 1 km that lies lower,match,0.6875,0.6875,0.5000,0.9062,1.0000,11,0.0000
+hillfort,high,Share on a local high point (higher than 75% of the ground within 1 km),match,0.3636,0.4309,0.1818,0.7273,0.8820,11,-0.0673
+hillfort,elev,Median height above sea level (m),match,135.4057,163.1051,92.8507,237.6896,0.4490,11,-27.6994
+hillfort,relief1k,Median relief within 1 km (m),match,110.3931,112.4810,79.5362,149.5757,0.8150,11,-2.0879
+hillfort,area,Median enclosed area (ha),match,1.1600,0.9500,0.3000,2.7000,0.7520,11,0.2100
+hillfort,multi,Share with two or more ramparts,match,0.2727,0.4709,0.1818,0.7273,0.2740,11,-0.1982
+names,tpi1k,Median height above the ground 1 km around (m),match,-2.7418,-1.4165,-6.8263,5.3504,0.6030,42,-1.3253
+names_english,tpi1k,Median height above the ground 1 km around (m),match,-3.0069,-2.4972,-9.1070,5.1173,0.8850,21,-0.5097
+names_gaelic,tpi1k,Median height above the ground 1 km around (m),match,-7.2891,-0.6441,-17.2549,33.9321,0.3620,15,-6.6450
+names_hill,tpi1k,Median height above the ground 1 km around (m),match,5.2634,22.6540,2.7034,51.0070,0.0800,13,-17.3905
+names_coast,tpi1k,Median height above the ground 1 km around (m),match,-15.3926,-14.7855,-31.0844,-4.5730,0.9540,10,-0.6071
+names,tpi500,Median height above the ground 500 m around (m),match,0.2460,-0.0367,-3.4537,3.5822,0.8480,42,0.2827
+names_english,tpi500,Median height above the ground 500 m around (m),match,0.3058,-0.6818,-4.9959,3.4183,0.5360,21,0.9876
+names_gaelic,tpi500,Median height above the ground 500 m around (m),match,-1.6881,0.8493,-9.6106,18.9735,0.6160,15,-2.5374
+names_hill,tpi500,Median height above the ground 500 m around (m),match,6.3977,15.3635,4.4445,29.4070,0.1120,13,-8.9658
+names_coast,tpi500,Median height above the ground 500 m around (m),match,-13.5533,-7.8596,-19.4361,-0.9287,0.3260,10,-5.6937
+names,pct1k,Median share of ground within 1 km that lies lower,match,0.5041,0.5312,0.4461,0.6250,0.5710,42,-0.0272
+names_english,pct1k,Median share of ground within 1 km that lies lower,match,0.5082,0.5156,0.3906,0.6328,0.9910,21,-0.0074
+names_gaelic,pct1k,Median share of ground within 1 km that lies lower,match,0.4062,0.5625,0.4118,0.7068,0.0450,15,-0.1562
+names_hill,pct1k,Median share of ground within 1 km that lies lower,match,0.6719,0.7812,0.6250,0.9062,0.2670,13,-0.1094
+names_coast,pct1k,Median share of ground within 1 km that lies lower,match,0.3953,0.4149,0.2242,0.5469,0.8630,10,-0.0195
+names,high,Share on a local high point (higher than 75% of the ground within 1 km),match,0.2143,0.2468,0.1429,0.3571,0.6100,42,-0.0325
+names_english,high,Share on a local high point (higher than 75% of the ground within 1 km),match,0.1429,0.2242,0.0952,0.3684,0.2900,21,-0.0813
+names_gaelic,high,Share on a local high point (higher than 75% of the ground within 1 km),match,0.2000,0.2938,0.1333,0.4667,0.4430,15,-0.0938
+names_hill,high,Share on a local high point (higher than 75% of the ground within 1 km),match,0.3846,0.5569,0.3077,0.8462,0.2950,13,-0.1723
+names_coast,high,Share on a local high point (higher than 75% of the ground within 1 km),match,0.0000,0.0442,0.0000,0.2222,1.0000,10,-0.0442
+names,elev,Median height above sea level (m),match,66.1861,78.9863,53.1893,109.4779,0.3670,42,-12.8002
+names_english,elev,Median height above sea level (m),match,51.6420,58.9595,30.9153,94.3295,0.6490,21,-7.3174
+names_gaelic,elev,Median height above sea level (m),match,67.1938,92.0694,41.3137,225.9532,0.3910,15,-24.8756
+names_hill,elev,Median height above sea level (m),match,138.4946,139.9088,70.6528,256.3439,0.9740,13,-1.4142
+names_coast,elev,Median height above sea level (m),match,25.1157,14.6367,5.1532,31.6612,0.1400,10,10.4790
+names,relief1k,Median relief within 1 km (m),match,96.1844,90.7081,68.9577,116.2555,0.6820,42,5.4763
+names_english,relief1k,Median relief within 1 km (m),match,79.5412,68.8080,47.5644,92.0974,0.4090,21,10.7332
+names_gaelic,relief1k,Median relief within 1 km (m),match,135.9852,151.2225,98.0867,226.5969,0.6090,15,-15.2372
+names_hill,relief1k,Median relief within 1 km (m),match,116.9657,100.3052,62.9614,150.3016,0.4290,13,16.6605
+names_coast,relief1k,Median relief within 1 km (m),match,120.3038,84.4140,51.1040,142.4113,0.1750,10,35.8898
+names,any_1,Share within 1 km of a prehistoric monument,match,0.3571,0.1767,0.0714,0.2857,0.0010,42,0.1805
+names_english,any_1,Share within 1 km of a prehistoric monument,match,0.3810,0.2105,0.0476,0.3810,0.0780,21,0.1705
+names_gaelic,any_1,Share within 1 km of a prehistoric monument,match,0.2000,0.1253,0.0000,0.3333,0.5450,15,0.0747
+names_hill,any_1,Share within 1 km of a prehistoric monument,match,0.3077,0.1754,0.0000,0.3846,0.3270,13,0.1323
+names_coast,any_1,Share within 1 km of a prehistoric monument,match,0.3000,0.2080,0.0000,0.5000,0.6760,10,0.0920
+names,any_2,Share within 2 km of a prehistoric monument,match,0.5476,0.3781,0.2381,0.5238,0.0210,42,0.1695
+names_english,any_2,Share within 2 km of a prehistoric monument,match,0.6667,0.4419,0.2381,0.6190,0.0390,21,0.2248
+names_gaelic,any_2,Share within 2 km of a prehistoric monument,match,0.3333,0.2840,0.1333,0.4667,0.8530,15,0.0493
+names_hill,any_2,Share within 2 km of a prehistoric monument,match,0.5385,0.3754,0.1538,0.6154,0.3260,13,0.1631
+names_coast,any_2,Share within 2 km of a prehistoric monument,match,0.5000,0.4320,0.2000,0.7000,0.9070,10,0.0680
+names,any_med,Median distance to a prehistoric monument (km),match,1.5040,2.7467,1.9399,3.7729,0.0010,42,-1.2427
+names_english,any_med,Median distance to a prehistoric monument (km),match,1.4247,2.2911,1.4033,3.5270,0.0590,21,-0.8664
+names_gaelic,any_med,Median distance to a prehistoric monument (km),match,6.3599,3.7576,1.9805,6.4071,0.0540,15,2.6022
+names_hill,any_med,Median distance to a prehistoric monument (km),match,1.5801,2.9393,1.3495,5.0642,0.1120,13,-1.3592
+names_coast,any_med,Median distance to a prehistoric monument (km),match,2.1136,2.3653,1.2364,4.6565,0.6630,10,-0.2517
+names,barrow_2,Share within 2 km of a barrow or cairn,match,0.3810,0.2281,0.1190,0.3333,0.0200,42,0.1529
+names_english,barrow_2,Share within 2 km of a barrow or cairn,match,0.4762,0.3019,0.1429,0.4762,0.1130,21,0.1743
+names_gaelic,barrow_2,Share within 2 km of a barrow or cairn,match,0.1333,0.0973,0.0000,0.2667,0.8810,15,0.0360
+names_hill,barrow_2,Share within 2 km of a barrow or cairn,match,0.3846,0.2231,0.0000,0.4615,0.2720,13,0.1615
+names_coast,barrow_2,Share within 2 km of a barrow or cairn,match,0.3000,0.2380,0.0000,0.5000,0.8860,10,0.0620
+names,megalith_2,Share within 2 km of a megalith,match,0.0476,0.0500,0.0000,0.1190,1.0000,42,-0.0024
+names_english,megalith_2,Share within 2 km of a megalith,match,0.0952,0.0629,0.0000,0.1905,0.7510,21,0.0324
+names_gaelic,megalith_2,Share within 2 km of a megalith,match,0.0000,0.0453,0.0000,0.1333,0.9470,15,-0.0453
+names_hill,megalith_2,Share within 2 km of a megalith,match,0.0769,0.0815,0.0000,0.2308,1.0000,13,-0.0046
+names_coast,megalith_2,Share within 2 km of a megalith,match,0.1000,0.0520,0.0000,0.2000,0.8540,10,0.0480
+names,circle_2,Share within 2 km of a stone circle,match,0.0000,0.0167,0.0000,0.0714,0.9600,42,-0.0167
+names_english,circle_2,Share within 2 km of a stone circle,match,0.0000,0.0190,0.0000,0.0952,1.0000,21,-0.0190
+names_gaelic,circle_2,Share within 2 km of a stone circle,match,0.0000,0.0147,0.0000,0.0667,1.0000,15,-0.0147
+names_hill,circle_2,Share within 2 km of a stone circle,match,0.0000,0.0292,0.0000,0.1538,1.0000,13,-0.0292
+names_coast,circle_2,Share within 2 km of a stone circle,match,0.0000,0.0140,0.0000,0.1000,1.0000,10,-0.0140
+names,hillfort_2,Share within 2 km of a hillfort,match,0.3571,0.1990,0.0952,0.3095,0.0130,42,0.1581
+names_english,hillfort_2,Share within 2 km of a hillfort,match,0.3810,0.2038,0.0476,0.3810,0.0820,21,0.1771
+names_gaelic,hillfort_2,Share within 2 km of a hillfort,match,0.2667,0.2160,0.0667,0.4000,0.8260,15,0.0507
+names_hill,hillfort_2,Share within 2 km of a hillfort,match,0.2308,0.2000,0.0000,0.3865,0.9990,13,0.0308
+names_coast,hillfort_2,Share within 2 km of a hillfort,match,0.4000,0.2820,0.0000,0.5000,0.5600,10,0.1180
+names,tpi1k,Median height above the ground 1 km around (m),rand,-2.7418,-0.9321,-6.7130,5.0180,0.4640,42,-1.8096
+names_english,tpi1k,Median height above the ground 1 km around (m),rand,-3.0069,-0.9170,-7.5628,6.3156,0.4290,21,-2.0899
+names_gaelic,tpi1k,Median height above the ground 1 km around (m),rand,-7.2891,-2.3279,-22.7750,23.4267,0.6850,15,-4.9612
+names_hill,tpi1k,Median height above the ground 1 km around (m),rand,5.2634,-0.8313,-10.8545,9.3025,0.1770,13,6.0947
+names_coast,tpi1k,Median height above the ground 1 km around (m),rand,-15.3926,0.8316,-15.2762,17.2833,0.0460,10,-16.2242
+names,tpi500,Median height above the ground 500 m around (m),rand,0.2460,-0.4701,-3.0276,2.4114,0.5890,42,0.7161
+names_english,tpi500,Median height above the ground 500 m around (m),rand,0.3058,-0.6929,-3.8456,2.7575,0.5580,21,0.9987
+names_gaelic,tpi500,Median height above the ground 500 m around (m),rand,-1.6881,-0.0657,-10.9387,10.5060,0.6470,15,-1.6224
+names_hill,tpi500,Median height above the ground 500 m around (m),rand,6.3977,-0.3073,-5.6171,5.2886,0.0240,13,6.7050
+names_coast,tpi500,Median height above the ground 500 m around (m),rand,-13.5533,0.1163,-8.5285,9.3326,0.0060,10,-13.6696
+names,pct1k,Median share of ground within 1 km that lies lower,rand,0.5041,0.5156,0.4375,0.5781,0.8210,42,-0.0115
+names_english,pct1k,Median share of ground within 1 km that lies lower,rand,0.5082,0.5000,0.3906,0.6094,0.8570,21,0.0082
+names_gaelic,pct1k,Median share of ground within 1 km that lies lower,rand,0.4062,0.5156,0.4219,0.6250,0.0300,15,-0.1094
+names_hill,pct1k,Median share of ground within 1 km that lies lower,rand,0.6719,0.5000,0.3905,0.6250,0.0150,13,0.1719
+names_coast,pct1k,Median share of ground within 1 km that lies lower,rand,0.3953,0.5312,0.3859,0.6719,0.0560,10,-0.1359
+names,high,Share on a local high point (higher than 75% of the ground within 1 km),rand,0.2143,0.1243,0.0250,0.2381,0.1360,42,0.0900
+names_english,high,Share on a local high point (higher than 75% of the ground within 1 km),rand,0.1429,0.1257,0.0000,0.2857,0.9980,21,0.0171
+names_gaelic,high,Share on a local high point (higher than 75% of the ground within 1 km),rand,0.2000,0.1202,0.0000,0.3333,0.5560,15,0.0798
+names_hill,high,Share on a local high point (higher than 75% of the ground within 1 km),rand,0.3846,0.1316,0.0000,0.3077,0.0380,13,0.2530
+names_coast,high,Share on a local high point (higher than 75% of the ground within 1 km),rand,0.0000,0.1420,0.0000,0.4000,0.4110,10,-0.1420
+names,elev,Median height above sea level (m),rand,66.1861,104.7736,77.7930,148.7009,0.0090,42,-38.5875
+names_english,elev,Median height above sea level (m),rand,51.6420,87.7209,52.5519,131.5330,0.0330,21,-36.0789
+names_gaelic,elev,Median height above sea level (m),rand,67.1938,149.4570,81.8330,244.1521,0.0110,15,-82.2632
+names_hill,elev,Median height above sea level (m),rand,138.4946,101.3250,47.2946,190.6637,0.2780,13,37.1696
+names_coast,elev,Median height above sea level (m),rand,25.1157,98.0077,51.5186,182.4531,0.0010,10,-72.8920
+names,relief1k,Median relief within 1 km (m),rand,96.1844,98.1088,77.3144,127.8280,0.8260,42,-1.9244
+names_english,relief1k,Median relief within 1 km (m),rand,79.5412,64.6768,42.4489,91.9343,0.3480,21,14.8644
+names_gaelic,relief1k,Median relief within 1 km (m),rand,135.9852,189.8989,130.6513,264.0889,0.0680,15,-53.9137
+names_hill,relief1k,Median relief within 1 km (m),rand,116.9657,90.1987,46.5460,148.5998,0.4520,13,26.7671
+names_coast,relief1k,Median relief within 1 km (m),rand,120.3038,104.0151,66.4495,156.6067,0.5280,10,16.2887
+names,any_1,Share within 1 km of a prehistoric monument,rand,0.3571,0.1486,0.0476,0.2619,0.0000,42,0.2086
+names_english,any_1,Share within 1 km of a prehistoric monument,rand,0.3810,0.2010,0.0476,0.3333,0.0480,21,0.1800
+names_gaelic,any_1,Share within 1 km of a prehistoric monument,rand,0.2000,0.0627,0.0000,0.2000,0.1310,15,0.1373
+names_hill,any_1,Share within 1 km of a prehistoric monument,rand,0.3077,0.0862,0.0000,0.2308,0.0420,13,0.2215
+names_coast,any_1,Share within 1 km of a prehistoric monument,rand,0.3000,0.1960,0.0000,0.4000,0.6030,10,0.1040
+names,any_2,Share within 2 km of a prehistoric monument,rand,0.5476,0.3495,0.2375,0.4762,0.0070,42,0.1981
+names_english,any_2,Share within 2 km of a prehistoric monument,rand,0.6667,0.4524,0.2857,0.6190,0.0440,21,0.2143
+names_gaelic,any_2,Share within 2 km of a prehistoric monument,rand,0.3333,0.1987,0.0000,0.4000,0.3020,15,0.1347
+names_hill,any_2,Share within 2 km of a prehistoric monument,rand,0.5385,0.2585,0.0769,0.5385,0.0560,13,0.2800
+names_coast,any_2,Share within 2 km of a prehistoric monument,rand,0.5000,0.4620,0.2000,0.7000,1.0000,10,0.0380
+names,any_med,Median distance to a prehistoric monument (km),rand,1.5040,2.9962,2.2087,4.0373,0.0000,42,-1.4922
+names_english,any_med,Median distance to a prehistoric monument (km),rand,1.4247,2.2688,1.4580,3.3767,0.0430,21,-0.8440
+names_gaelic,any_med,Median distance to a prehistoric monument (km),rand,6.3599,4.5595,2.6382,6.9290,0.1350,15,1.8003
+names_hill,any_med,Median distance to a prehistoric monument (km),rand,1.5801,3.6589,2.0908,6.0220,0.0010,13,-2.0788
+names_coast,any_med,Median distance to a prehistoric monument (km),rand,2.1136,2.2795,1.3072,3.9486,0.7570,10,-0.1659
+names,barrow_2,Share within 2 km of a barrow or cairn,rand,0.3810,0.2514,0.1429,0.3810,0.0530,42,0.1295
+names_english,barrow_2,Share within 2 km of a barrow or cairn,rand,0.4762,0.3590,0.1905,0.5238,0.2880,21,0.1171
+names_gaelic,barrow_2,Share within 2 km of a barrow or cairn,rand,0.1333,0.0760,0.0000,0.2000,0.6160,15,0.0573
+names_hill,barrow_2,Share within 2 km of a barrow or cairn,rand,0.3846,0.1569,0.0000,0.3846,0.0640,13,0.2277
+names_coast,barrow_2,Share within 2 km of a barrow or cairn,rand,0.3000,0.3280,0.1000,0.5000,1.0000,10,-0.0280
+names,megalith_2,Share within 2 km of a megalith,rand,0.0476,0.0486,0.0000,0.1190,1.0000,42,-0.0010
+names_english,megalith_2,Share within 2 km of a megalith,rand,0.0952,0.0600,0.0000,0.1429,0.7000,21,0.0352
+names_gaelic,megalith_2,Share within 2 km of a megalith,rand,0.0000,0.0453,0.0000,0.1333,0.9470,15,-0.0453
+names_hill,megalith_2,Share within 2 km of a megalith,rand,0.0769,0.0477,0.0000,0.1538,0.9560,13,0.0292
+names_coast,megalith_2,Share within 2 km of a megalith,rand,0.1000,0.0800,0.0000,0.2000,1.0000,10,0.0200
+names,circle_2,Share within 2 km of a stone circle,rand,0.0000,0.0205,0.0000,0.0714,0.8260,42,-0.0205
+names_english,circle_2,Share within 2 km of a stone circle,rand,0.0000,0.0248,0.0000,0.0952,1.0000,21,-0.0248
+names_gaelic,circle_2,Share within 2 km of a stone circle,rand,0.0000,0.0173,0.0000,0.1333,1.0000,15,-0.0173
+names_hill,circle_2,Share within 2 km of a stone circle,rand,0.0000,0.0246,0.0000,0.0769,1.0000,13,-0.0246
+names_coast,circle_2,Share within 2 km of a stone circle,rand,0.0000,0.0220,0.0000,0.1000,1.0000,10,-0.0220
+names,hillfort_2,Share within 2 km of a hillfort,rand,0.3571,0.1376,0.0476,0.2381,0.0000,42,0.2195
+names_english,hillfort_2,Share within 2 km of a hillfort,rand,0.3810,0.1590,0.0476,0.3333,0.0130,21,0.2219
+names_gaelic,hillfort_2,Share within 2 km of a hillfort,rand,0.2667,0.1173,0.0000,0.3333,0.1800,15,0.1493
+names_hill,hillfort_2,Share within 2 km of a hillfort,rand,0.2308,0.1031,0.0000,0.3077,0.2920,13,0.1277
+names_coast,hillfort_2,Share within 2 km of a hillfort,rand,0.4000,0.2200,0.0000,0.5000,0.2680,10,0.1800
+legends,tpi1k,Median height above the ground 1 km around (m),rand,0.7647,-0.6828,-5.3719,4.7839,0.4380,31,1.4475
+legends_monument,tpi1k,Median height above the ground 1 km around (m),rand,1.8328,-0.8677,-11.1767,15.8661,0.6160,5,2.7005
+legends_natural,tpi1k,Median height above the ground 1 km around (m),rand,-10.6182,-0.0944,-16.3222,16.0043,0.1350,5,-10.5238
+legends,tpi500,Median height above the ground 500 m around (m),rand,2.9606,-0.2083,-2.5261,2.3097,0.0260,32,3.1689
+legends_monument,tpi500,Median height above the ground 500 m around (m),rand,5.5827,-0.2949,-6.1606,8.6179,0.1180,5,5.8776
+legends_natural,tpi500,Median height above the ground 500 m around (m),rand,0.7042,0.0248,-7.5906,7.4894,0.7890,6,0.6794
+legends,pct1k,Median share of ground within 1 km that lies lower,rand,0.5703,0.5000,0.4219,0.5859,0.1120,32,0.0703
+legends_monument,pct1k,Median share of ground within 1 km that lies lower,rand,0.6406,0.4844,0.2656,0.7188,0.1800,5,0.1562
+legends_natural,pct1k,Median share of ground within 1 km that lies lower,rand,0.6395,0.5312,0.3203,0.6875,0.2180,6,0.1083
+legends,high,Share on a local high point (higher than 75% of the ground within 1 km),rand,0.4062,0.1124,0.0312,0.2500,0.0000,32,0.2939
+legends_monument,high,Share on a local high point (higher than 75% of the ground within 1 km),rand,0.4000,0.1240,0.0000,0.4000,0.2310,5,0.2760
+legends_natural,high,Share on a local high point (higher than 75% of the ground within 1 km),rand,0.5000,0.0967,0.0000,0.3333,0.0290,6,0.4033
+legends,elev,Median height above sea level (m),rand,73.5332,87.5789,58.2767,122.8140,0.3580,32,-14.0457
+legends_monument,elev,Median height above sea level (m),rand,98.9318,94.6191,43.0619,162.3164,0.8550,5,4.3126
+legends_natural,elev,Median height above sea level (m),rand,31.4613,74.0258,26.0992,159.4839,0.0720,6,-42.5645
+legends,relief1k,Median relief within 1 km (m),rand,87.5815,63.8441,47.5741,84.3828,0.0180,32,23.7374
+legends_monument,relief1k,Median relief within 1 km (m),rand,83.0106,54.4117,24.6620,96.1117,0.2130,5,28.5989
+legends_natural,relief1k,Median relief within 1 km (m),rand,53.6954,65.8094,35.6821,115.5706,0.4130,6,-12.1141
+legends,any_1,Share within 1 km of a prehistoric monument,rand,0.3750,0.2013,0.0625,0.3438,0.0230,32,0.1737
+legends_monument,any_1,Share within 1 km of a prehistoric monument,rand,1.0000,0.2320,0.0000,0.6000,0.0000,5,0.7680
+legends_natural,any_1,Share within 1 km of a prehistoric monument,rand,0.1667,0.2100,0.0000,0.5000,1.0000,6,-0.0433
+legends,any_2,Share within 2 km of a prehistoric monument,rand,0.6250,0.4656,0.3125,0.6250,0.0760,32,0.1594
+legends_monument,any_2,Share within 2 km of a prehistoric monument,rand,1.0000,0.5080,0.2000,1.0000,0.0570,5,0.4920
+legends_natural,any_2,Share within 2 km of a prehistoric monument,rand,0.3333,0.5567,0.1667,0.8375,0.4780,6,-0.2233
+legends,any_med,Median distance to a prehistoric monument (km),rand,1.4919,2.1542,1.5200,2.9822,0.0450,32,-0.6623
+legends_monument,any_med,Median distance to a prehistoric monument (km),rand,0.0000,1.9382,0.7057,3.9361,0.0000,5,-1.9382
+legends_natural,any_med,Median distance to a prehistoric monument (km),rand,3.0760,1.7896,0.8960,3.1211,0.0570,6,1.2864
+legends,barrow_2,Share within 2 km of a barrow or cairn,rand,0.4375,0.3581,0.2188,0.5312,0.4280,32,0.0794
+legends_monument,barrow_2,Share within 2 km of a barrow or cairn,rand,0.2000,0.3600,0.0000,0.8000,0.7720,5,-0.1600
+legends_natural,barrow_2,Share within 2 km of a barrow or cairn,rand,0.1667,0.3767,0.0000,0.6667,0.5250,6,-0.2100
+legends,megalith_2,Share within 2 km of a megalith,rand,0.1562,0.0862,0.0000,0.1875,0.2500,32,0.0700
+legends_monument,megalith_2,Share within 2 km of a megalith,rand,0.6000,0.0920,0.0000,0.4000,0.0060,5,0.5080
+legends_natural,megalith_2,Share within 2 km of a megalith,rand,0.0000,0.1333,0.0000,0.3333,0.8490,6,-0.1333
+legends,circle_2,Share within 2 km of a stone circle,rand,0.1250,0.0362,0.0000,0.1250,0.0550,32,0.0887
+legends_monument,circle_2,Share within 2 km of a stone circle,rand,0.4000,0.0280,0.0000,0.2000,0.0060,5,0.3720
+legends_natural,circle_2,Share within 2 km of a stone circle,rand,0.0000,0.0433,0.0000,0.1667,1.0000,6,-0.0433
+legends,hillfort_2,Share within 2 km of a hillfort,rand,0.3125,0.1531,0.0312,0.2812,0.0280,32,0.1594
+legends_monument,hillfort_2,Share within 2 km of a hillfort,rand,0.6000,0.2040,0.0000,0.6000,0.1210,5,0.3960
+legends_natural,hillfort_2,Share within 2 km of a hillfort,rand,0.3333,0.2467,0.0000,0.6667,0.9170,6,0.0867
